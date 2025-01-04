@@ -1,2 +1,2 @@
 # whldownloader
-whl文件下载工具是一个可以下载经常无法编译whl文件搜索工具，仅支持windows平台，软件可以在release下载
+whl文件下载工具是一个可以下载经常无法编译whl文件搜索工具，仅支持windows平台，软件可以在右侧release下载
